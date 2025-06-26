@@ -26,6 +26,7 @@ PDF Documents → Text Chunks → FAISS Index → Context Retrieval → LLM Anal
 - **Embeddings**: `all-MiniLM-L6-v2` for text vectorization  
 - **LLM**: Groq `deepseek-r1-distill-llama-70b` for final classification
 - **Text Processing**: 500-char chunks with overlap for context preservation
+- **UI Interface**: Interactive Gradio web application for real-time testing
 
 ## Customization
 
