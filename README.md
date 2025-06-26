@@ -1,4 +1,3 @@
-# floc_assigment
 # Medical Compliance Checker
 
 A hybrid RAG + Regex system for analyzing medical text compliance with FDA/EMA regulations.
